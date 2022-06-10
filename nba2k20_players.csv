@@ -1,0 +1,407 @@
+fullName,rating,jersey,team,bDay,height,weight,salary,country
+Tyson Chandler,73,19,Houston Rockets,10/02/1982,213,235,2564753,USA
+Anthony Tolliver,72,0,Memphis Grizzlies,06/01/1985,203,240,2854556,USA
+Courtney Lee,72,1,Dallas Mavericks,10/03/1985,196,200,12759670,USA
+PJ Tucker,79,17,Houston Rockets,05/05/1985,196,225,8349039,USA
+Chris Paul,85,3,Oklahoma City Thunder,05/06/1985,185,175,38506482,USA
+Paul Millsap,82,4,Denver Nuggets,02/10/1985,201,250,30350000,USA
+Jared Dudley,72,10,Los Angeles Lakers,07/10/1985,198,225,2564753,USA
+Al Horford,85,42,Philadelphia 76ers,06/03/1986,206,246,28000000,Dominican Republic
+George Hill,75,3,Milwaukee Bucks,05/04/1986,191,180,10133907,USA
+Ian Mahinmi,73,28,Washington Wizards,11/05/1986,211,230,15450051,France
+Goran Dragic,79,7,Miami Heat,05/06/1986,191,190,19217900,Slovenia
+Garrett Temple,73,17,Brooklyn Nets,05/08/1986,196,195,4767000,USA
+Aron Baynes,75,46,Phoenix Suns,12/09/1986,208,260,5453280,Australia
+Joe Ingles,79,2,Utah Jazz,10/02/1987,201,209,11454546,Australia
+Wilson Chandler,75,21,Brooklyn Nets,05/10/1987,203,225,2564753,USA
+DJ Augustin,76,14,Orlando Magic,11/10/1987,180,180,7250000,USA
+Mike Conley,87,10,Utah Jazz,10/11/1987,185,185,32511623,USA
+Brook Lopez,79,11,Milwaukee Bucks,04/01/1988,213,265,12093024,USA
+Robin Lopez,75,42,Milwaukee Bucks,04/01/1988,213,255,4767000,USA
+Derrick Rose,80,25,Detroit Pistons,10/04/1988,188,190,7317074,USA
+Ishmael Smith,73,14,Washington Wizards,07/05/1988,183,175,6000000,USA
+Kevin Love,83,0,Cleveland Cavaliers,09/07/1988,203,260,28942830,USA
+Danilo Gallinari,83,8,Oklahoma City Thunder,08/08/1988,208,225,22615559,Italy
+Nemanja Bjelica,77,88,Sacramento Kings,05/09/1988,208,224,6825000,Serbia
+Jeff Teague,78,0,Atlanta Hawks,06/10/1988,191,181,19000000,USA
+Patrick Mills,75,8,San Antonio Spurs,08/11/1988,185,185,12678571,Australia
+Patrick Beverley,79,21,Los Angeles Clippers,07/12/1988,185,180,12345680,USA
+Russell Westbrook,90,0,Houston Rockets,11/12/1988,191,190,38506482,USA
+Kent Bazemore,75,26,Sacramento Kings,07/01/1989,193,195,19269663,USA
+Marcus Morris,78,0,Los Angeles Clippers,09/02/1989,203,235,15000000,USA
+Markieff Morris,75,88,Los Angeles Lakers,09/02/1989,203,245,3709887,USA
+Justin Holiday,72,8,Indiana Pacers,04/05/1989,198,180,4767000,USA
+Ed Davis,77,17,Utah Jazz,06/05/1989,206,215,4767000,USA
+DeMar DeRozan,87,10,San Antonio Spurs,08/07/1989,198,220,27739975,USA
+Eric Bledsoe,85,6,Milwaukee Bucks,12/09/1989,185,195,15625000,USA
+Dewayne Dedmon,76,0,Atlanta Hawks,08/12/1989,213,239,13333334,USA
+James Ennis,73,0,Orlando Magic,07/01/1990,198,201,1882867,USA
+Paul George,93,13,Los Angeles Clippers,05/02/1990,203,210,33005556,USA
+Draymond Green,86,23,Golden State Warriors,03/04/1990,198,230,18539130,USA
+Mason Plumlee,77,24,Denver Nuggets,03/05/1990,211,238,14041096,USA
+Jae Crowder,76,99,Miami Heat,07/06/1990,198,235,7815533,USA
+John Wall,86,2,Washington Wizards,09/06/1990,193,195,38199000,USA
+Klay Thompson,89,11,Golden State Warriors,02/08/1990,198,205,32742000,USA
+Kemba Walker,88,8,Boston Celtics,05/08/1990,183,172,32742000,USA
+Matthew Dellavedova,73,18,Cleveland Cavaliers,09/08/1990,191,190,9607500,Australia
+Jrue Holiday,86,11,New Orleans Pelicans,06/12/1990,191,180,26131111,USA
+Mike Muscala,73,33,Oklahoma City Thunder,07/01/1991,208,230,2028594,USA
+Brandon Knight,72,0,Detroit Pistons,12/02/1991,188,189,15643750,USA
+Andre Roberson,76,21,Oklahoma City Thunder,12/04/1991,201,206,10740740,USA
+Terrence Ross,79,8,Orlando Magic,02/05/1991,198,206,12500000,USA
+Will Barton,78,5,Denver Nuggets,01/06/1991,196,175,12776786,USA
+Joe Harris,78,12,Brooklyn Nets,09/06/1991,198,215,7666667,USA
+Langston Galloway,72,9,Detroit Pistons,12/09/1991,185,202,7333333,USA
+Michael Carter-Williams,72,7,Orlando Magic,10/10/1991,196,184,2028594,USA
+Tony Snell,73,17,Detroit Pistons,11/10/1991,198,198,11392857,USA
+Dion Waiters,76,11,Los Angeles Lakers,12/10/1991,191,210,12475385,USA
+Khris Middleton,85,22,Milwaukee Bucks,08/12/1991,201,217,30603448,USA
+Austin Rivers,76,25,Houston Rockets,08/01/1992,191,200,2174310,USA
+Doug McDermott,74,20,Indiana Pacers,01/03/1992,201,218,7333333,USA
+Daniel Theis,76,27,Boston Celtics,04/04/1992,203,215,5000000,Germany
+Victor Oladipo,87,4,Indiana Pacers,05/04/1992,193,213,21000000,USA
+Cody Zeller,77,40,Charlotte Hornets,10/05/1992,213,230,14471910,USA
+Jonas Valanciunas,81,17,Memphis Grizzlies,05/06/1992,211,231,16000000,Lithuania
+Tyler Johnson,74,0,Brooklyn Nets,05/07/1992,191,186,19428485,USA
+Jordan Clarkson,78,8,Utah Jazz,06/07/1992,193,186,13437500,Philippines
+Cristiano Felicio,72,6,Chicago Bulls,07/07/1992,208,270,8156500,Brazil
+Malcolm Brogdon,83,7,Indiana Pacers,12/11/1992,196,223,20000000,USA
+Davis Bertans,76,42,Washington Wizards,11/12/1992,208,211,7000000,Latvia
+Larry Nance Jr,78,22,Cleveland Cavaliers,01/01/1993,201,227,12727273,USA
+Otto Porter,80,22,Chicago Bulls,06/03/1993,203,198,27250576,USA
+Frank Kaminsky,76,8,Phoenix Suns,04/04/1993,213,231,4767000,USA
+Dorian Finney-Smith,73,10,Dallas Mavericks,05/04/1993,201,213,4000000,USA
+Royce O'Neale,73,23,Utah Jazz,06/05/1993,193,226,1618520,USA
+TJ Warren,80,1,Indiana Pacers,09/05/1993,203,220,11060000,USA
+Pat Connaughton,74,24,Milwaukee Bucks,01/06/1993,196,215,1723050,USA
+Malcolm Miller,69,13,Toronto Raptors,03/06/1993,201,205,1588231,USA
+Spencer Dinwiddie,82,8,Brooklyn Nets,04/06/1993,196,205,10605600,USA
+Shaquille Harrison,73,3,Chicago Bulls,10/06/1993,201,190,1620564,USA
+Danuel House,73,4,Houston Rockets,06/07/1993,198,220,3540000,USA
+Yogi Ferrell,74,3,Sacramento Kings,05/09/1993,183,178,3150000,USA
+Andre Drummond,86,0,Cleveland Cavaliers,08/10/1993,208,270,27093018,USA
+Chris Boucher,71,25,Toronto Raptors,01/11/1993,206,200,1588231,Canada
+Ben McLemore,71,16,Houston Rockets,02/11/1993,191,189,2028594,USA
+Anthony Davis,94,3,Los Angeles Lakers,03/11/1993,208,222,27093019,USA
+Moe Harkless,74,0,New York Knicks,05/11/1993,201,208,11011234,USA
+Pascal Siakam,87,43,Toronto Raptors,04/02/1994,206,227,2351838,Cameroon
+Derrick White,78,4,San Antonio Spurs,07/02/1994,193,200,1948080,USA
+Kenrich Williams,72,34,New Orleans Pelicans,12/02/1994,198,210,1416852,USA
+DeAndre Bembry,73,95,Atlanta Hawks,07/04/1994,196,207,2603981,USA
+Matt Thomas,72,21,Toronto Raptors,08/04/1994,193,197,898310,USA
+Semi Ojeleye,73,37,Boston Celtics,12/05/1994,198,235,1618520,USA
+Marcus Smart,82,36,Boston Celtics,03/06/1994,191,227,12553571,USA
+Damyean Dotson,75,21,New York Knicks,05/06/1994,196,202,1618520,USA
+Giannis Antetokounmpo,96,34,Milwaukee Bucks,12/06/1994,211,242,25842697,Greece
+Jake Layman,75,10,Minnesota Timberwolves,03/07/1994,203,209,3581986,USA
+Glenn Robinson III,74,22,Golden State Warriors,01/08/1994,198,211,1882867,USA
+Michael Frazier,68,21,Houston Rockets,03/08/1994,191,200,79568,USA
+Dario Saric,77,20,Phoenix Suns,04/08/1994,208,216,3481985,Croatia
+Cameron Payne,72,0,Phoenix Suns,08/08/1994,188,180,346288,USA
+Nerlens Noel,77,9,Oklahoma City Thunder,04/10/1994,208,206,1882867,USA
+Jerami Grant,77,9,Denver Nuggets,03/12/1994,203,214,9346153,USA
+Kristaps Porzingis,87,6,Dallas Mavericks,08/02/1995,221,220,27285000,Latvia
+Brandon Goodwin,68,0,Atlanta Hawks,10/02/1995,183,180,522738,USA
+Rondae Hollis-Jefferson,75,4,Toronto Raptors,01/03/1995,198,211,2500000,USA
+Johnathan Motley,70,15,Los Angeles Clippers,05/04/1995,203,230,79568,USA
+Trey Lyles,75,41,San Antonio Spurs,11/05/1995,206,241,5500000,Canada
+Theo Pinson,69,0,New York Knicks,11/05/1995,196,220,1445697,USA
+Josh Hart,75,3,New Orleans Pelicans,03/06/1995,196,204,1934160,USA
+Jordan Bell,74,0,Cleveland Cavaliers,01/07/1995,203,224,1870564,USA
+Cam Reynolds,69,13,Milwaukee Bucks,02/07/1995,201,225,79568,USA
+Cedi Osman,75,16,Cleveland Cavaliers,04/08/1995,201,215,2907143,Turkey
+Grayson Allen,72,3,Memphis Grizzlies,10/08/1995,193,205,2429400,USA
+Kelly Oubre,78,3,Phoenix Suns,12/09/1995,201,203,15625000,USA
+Bobby Portis,78,1,New York Knicks,02/10/1995,208,246,15000000,USA
+Sterling Brown,73,23,Milwaukee Bucks,02/10/1995,196,230,1618520,USA
+Zach LaVine,85,8,Chicago Bulls,03/10/1995,198,181,19500000,USA
+Jonah Bolden,73,0,Phoenix Suns,01/02/1996,203,215,1788296,Australia
+Cameron Johnson,72,23,Phoenix Suns,03/03/1996,203,210,4033440,USA
+Domantas Sabonis,81,11,Indiana Pacers,05/03/1996,211,231,3529554,Lithuania
+Eric Paschall,71,7,Golden State Warriors,11/04/1996,198,255,898310,USA
+Emmanuel Mudiay,76,8,Utah Jazz,03/05/1996,191,190,1737145,Democratic Republic of the Congo
+Kevon Looney,77,5,Golden State Warriors,02/06/1996,206,222,4464286,USA
+Donovan Mitchell,88,45,Utah Jazz,09/07/1996,185,211,3635760,USA
+Khyri Thomas,69,13,Detroit Pistons,05/08/1996,191,210,1416852,USA
+Tyus Jones,73,21,Memphis Grizzlies,05/10/1996,183,185,10116000,USA
+De'Andre Hunter,77,12,Atlanta Hawks,12/01/1997,201,225,7068360,USA
+Brandon Ingram,81,14,New Orleans Pelicans,09/02/1997,201,196,7265485,USA
+Jonathan Isaac,76,1,Orlando Magic,10/03/1997,211,205,5806440,USA
+Ante Zizic,73,41,Cleveland Cavaliers,01/04/1997,208,250,2281800,Croatia
+Matisse Thybulle,72,22,Philadelphia 76ers,03/04/1997,196,201,2582160,USA
+Miye Oni,69,24,Utah Jazz,08/04/1997,196,210,898310,USA
+Ty Jerome,72,10,Phoenix Suns,07/08/1997,196,195,2193480,USA
+Josh Jackson,76,20,Memphis Grizzlies,02/10/1997,203,203,7059480,USA
+Sviatoslav Mykhailiuk,70,19,Detroit Pistons,06/10/1997,201,205,1416852,Ukraine
+Mitchell Robinson,79,23,New York Knicks,04/01/1998,213,223,1559712,USA
+Josh Okogie,73,20,Minnesota Timberwolves,09/01/1998,193,213,2530680,Nigeria
+Daniel Gafford,71,12,Chicago Bulls,10/01/1998,208,234,898310,USA
+Nickeil Alexander-Walker,72,0,New Orleans Pelicans,09/02/1998,196,205,2964840,Canada
+Jayson Tatum,85,0,Boston Celtics,03/03/1998,203,204,7830000,USA
+Malik Monk,75,1,Charlotte Hornets,02/04/1998,191,197,4028400,USA
+Frank Jackson,71,15,New Orleans Pelicans,05/04/1998,191,205,1618520,USA
+Rodions Kurucs,75,0,Brooklyn Nets,02/05/1998,206,215,1699236,Latvia
+Tony Bradley,70,13,Utah Jazz,01/08/1998,208,248,1962360,USA
+Rui Hachimura,74,8,Washington Wizards,02/08/1998,203,225,4469160,Japan
+Carsen Edwards,71,4,Boston Celtics,03/12/1998,180,200,1228026,USA
+Mo Bamba,77,5,Orlando Magic,05/12/1998,213,225,5697600,USA
+Shai Gilgeous-Alexander,79,2,Oklahoma City Thunder,07/12/1998,196,180,3952920,Canada
+Jarred Vanderbilt,70,0,Minnesota Timberwolves,04/03/1999,206,214,1416852,USA
+Collin Sexton,77,2,Cleveland Cavaliers,01/04/1999,185,190,4764960,USA
+Zhaire Smith,72,8,Philadelphia 76ers,06/04/1999,191,205,3058800,USA
+Ignas Brazdeikis,70,17,New York Knicks,01/08/1999,198,216,898310,Canada
+Dzanan Musa,71,13,Brooklyn Nets,05/08/1999,206,195,1911600,Bosnia and Herzegovina
+Anfernee Simons,72,1,Portland Trail Blazers,06/08/1999,191,181,2149560,USA
+Isaac Bonga,68,17,Washington Wizards,11/08/1999,203,200,1416852,Germany
+Ja Morant,79,12,Memphis Grizzlies,08/10/1999,191,174,8730240,USA
+Kevin Knox,76,20,New York Knicks,08/11/1999,201,215,4380120,USA
+Keldon Johnson,72,3,San Antonio Spurs,10/11/1999,196,211,1950600,USA
+Kevin Porter,72,4,Cleveland Cavaliers,05/04/2000,193,218,1290960,USA
+Zion Williamson,81,1,New Orleans Pelicans,07/06/2000,198,284,9757440,USA
+Luka Samanic,72,19,San Antonio Spurs,01/09/2000,208,209,2689920,Croatia
+Nassir Little,73,9,Portland Trail Blazers,02/11/2000,196,220,2105520,USA
+Darius Bazley,70,7,Oklahoma City Thunder,06/12/2000,203,200,2284800,USA
+David Nwaba,73,0,Houston Rockets,01/14/1993,196,210,2581965,USA
+Gorgui Dieng,76,0,Memphis Grizzlies,01/18/1990,208,230,16229213,Senegal
+Gary Trent Jr,71,2,Portland Trail Blazers,01/18/1999,196,209,1416852,USA
+JaVale McGee,79,7,Los Angeles Lakers,01/19/1988,213,270,4000000,USA
+Tyler Herro,73,14,Miami Heat,01/20/2000,196,195,3640200,USA
+Dillon Brooks,74,24,Memphis Grizzlies,01/22/1996,201,225,1618520,Canada
+Keita Bates-Diop,70,0,Denver Nuggets,01/23/1996,203,235,1416852,USA
+Justin James,70,10,Sacramento Kings,01/24/1997,201,190,898310,USA
+Nicolo Melli,73,20,New Orleans Pelicans,01/26/1991,206,236,4102564,Italy
+Montrezl Harrell,83,5,Los Angeles Clippers,01/26/1994,201,253,6000000,USA
+Andre Iguodala,78,9,Miami Heat,01/28/1984,198,207,17185185,USA
+Marc Gasol,82,33,Toronto Raptors,01/29/1985,211,265,25595700,Spain
+Maxi Kleber,74,42,Dallas Mavericks,01/29/1992,208,211,8000000,Germany
+Donte DiVincenzo,72,0,Milwaukee Bucks,01/31/1997,193,205,2905800,USA
+Derrick Jones,74,5,Miami Heat,02/15/1997,198,195,1645357,USA
+Coby White,76,0,Chicago Bulls,02/16/2000,193,185,5307120,USA
+Kentavious Caldwell-Pope,76,1,Los Angeles Lakers,02/18/1993,196,204,8089282,USA
+Nikola Jokic,90,15,Denver Nuggets,02/19/1995,213,253,27504630,Serbia
+DJ Wilson,72,5,Milwaukee Bucks,02/19/1996,208,234,2961120,USA
+James Johnson,75,0,Minnesota Timberwolves,02/20/1987,201,245,15349400,USA
+Jarrett Culver,77,23,Minnesota Timberwolves,02/20/1999,198,195,5813640,USA
+Rajon Rondo,76,9,Los Angeles Lakers,02/22/1986,185,186,2564753,USA
+Elfrid Payton,76,6,New York Knicks,02/22/1994,191,185,8000000,USA
+Devonte Graham,69,0,Charlotte Hornets,02/22/1995,185,185,1416852,USA
+Jerome Robinson,71,1,Washington Wizards,02/22/1997,193,190,3567720,USA
+Andrew Wiggins,79,22,Golden State Warriors,02/23/1995,201,197,27504630,Canada
+D'Angelo Russell,87,0,Minnesota Timberwolves,02/23/1996,193,193,27285000,USA
+Jamal Murray,84,27,Denver Nuggets,02/23/1997,193,201,4444746,Canada
+Joakim Noah,74,0,Los Angeles Clippers,02/25/1985,211,227,6813026,USA
+E'Twaun Moore,74,55,New Orleans Pelicans,02/25/1989,191,191,8664928,USA
+Fred VanVleet,79,23,Toronto Raptors,02/25/1994,185,197,9346153,USA
+Mario Hezonja,75,44,Portland Trail Blazers,02/25/1995,203,201,1737145,Croatia
+Thon Maker,72,7,Detroit Pistons,02/25/1997,213,216,3569643,Australia
+Meyers Leonard,76,0,Miami Heat,02/27/1992,213,245,11286515,USA
+Alex Caruso,73,4,Los Angeles Lakers,02/28/1994,196,186,2750000,USA
+Luka Doncic,87,77,Dallas Mavericks,02/28/1999,201,227,7683360,Slovenia
+Tristan Thompson,79,13,Cleveland Cavaliers,03/13/1991,206,225,18539130,Canada
+Landry Shamet,76,20,Los Angeles Clippers,03/13/1997,193,180,1995120,USA
+Stephen Curry,95,30,Golden State Warriors,03/14/1988,191,185,40231758,USA
+Marvin Bagley,83,35,Sacramento Kings,03/14/1999,211,235,8556120,USA
+Jabari Parker,78,0,Sacramento Kings,03/15/1995,203,235,6500000,USA
+Blake Griffin,88,23,Detroit Pistons,03/16/1989,206,252,34449964,USA
+Reggie Bullock,74,25,New York Knicks,03/16/1991,198,200,4000000,USA
+Tim Hardaway Jr,77,11,Dallas Mavericks,03/16/1992,196,199,20025127,USA
+Joel Embiid,91,21,Philadelphia 76ers,03/16/1994,213,250,27504630,Cameroon
+Kyle Korver,75,26,Milwaukee Bucks,03/17/1981,201,212,6004753,USA
+Terry Rozier,78,3,Charlotte Hornets,03/17/1994,185,190,19894737,USA
+Solomon Hill,70,44,Miami Heat,03/18/1991,198,226,13290395,USA
+Kris Dunn,75,32,Chicago Bulls,03/18/1994,191,205,5348007,USA
+Skal Labissiere,70,0,Atlanta Hawks,03/18/1996,208,216,2338846,Haiti
+Ivica Zubac,77,40,Los Angeles Clippers,03/18/1997,213,265,6481482,Croatia
+JaKarr Sampson,71,14,Indiana Pacers,03/20/1993,201,223,1737145,USA
+Darius Miller,72,21,New Orleans Pelicans,03/21/1990,198,225,7250000,USA
+Miles Bridges,76,0,Charlotte Hornets,03/21/1998,198,225,3755400,USA
+Taurean Prince,77,2,Brooklyn Nets,03/22/1994,201,220,3481985,USA
+Chimezie Metu,71,7,San Antonio Spurs,03/22/1997,206,225,1416852,Nigeria
+Gordon Hayward,80,20,Boston Celtics,03/23/1990,201,207,32700690,USA
+Kyrie Irving,91,11,Brooklyn Nets,03/23/1992,188,180,31742000,Australia
+Quinn Cook,74,2,Los Angeles Lakers,03/23/1993,185,180,3000000,USA
+Myles Turner,82,33,Indiana Pacers,03/24/1996,211,239,18000000,USA
+Kyle Lowry,85,7,Toronto Raptors,03/25/1986,183,205,33296296,USA
+Marco Belinelli,75,18,San Antonio Spurs,03/25/1986,196,200,5846154,Italy
+TJ McConnell,75,9,Indiana Pacers,03/25/1992,185,200,3500000,USA
+Kyle O'Quinn,74,9,Philadelphia 76ers,03/26/1990,206,240,2174318,USA
+Ryan Arcidiacono,72,51,Chicago Bulls,03/26/1994,191,195,3000000,Italy
+Justise Winslow,78,0,Memphis Grizzlies,03/26/1996,198,222,13000000,USA
+Jordan McRae,68,0,Detroit Pistons,03/28/1991,196,179,1254933,USA
+Justin Jackson,74,44,Dallas Mavericks,03/28/1995,201,201,3280920,USA
+Admiral Schofield,71,1,Washington Wizards,03/30/1997,196,241,1000000,USA
+Frank Mason,71,15,Milwaukee Bucks,04/13/1994,180,190,79568,USA
+Reggie Jackson,80,0,Los Angeles Clippers,04/16/1990,191,208,17799677,USA
+Wendell Carter,78,34,Chicago Bulls,04/16/1999,206,259,5201400,USA
+Nicolas Claxton,72,0,Brooklyn Nets,04/17/1990,211,215,898310,USA
+Bojan Bogdanovic,83,44,Utah Jazz,04/18/1989,203,216,17000000,Croatia
+Caleb Swanigan,70,50,Portland Trail Blazers,04/18/1997,206,249,2033160,USA
+Kelly Olynyk,78,9,Miami Heat,04/19/1991,211,234,12667885,Canada
+Jarrett Allen,79,31,Brooklyn Nets,04/20/1998,211,234,2376840,USA
+Duncan Robinson,67,55,Miami Heat,04/22/1994,201,215,1416852,USA
+Harry Giles,74,20,Sacramento Kings,04/22/1998,211,232,2578800,USA
+Delon Wright,76,55,Dallas Mavericks,04/26/1992,196,181,9473684,USA
+Chandler Hutchison,72,15,Chicago Bulls,04/26/1996,201,196,2332320,USA
+Alize Johnson,70,24,Indiana Pacers,04/26/1996,201,201,1416852,USA
+Moritz Wagner,71,21,Washington Wizards,04/26/1997,211,240,2063520,Germany
+KZ Okpala,71,4,Miami Heat,04/28/1999,203,215,898310,USA
+TJ Leaf,74,22,Indiana Pacers,04/30/1997,208,222,2813280,Israel
+Ersan Ilyasova,76,7,Milwaukee Bucks,05/15/1987,206,235,7000000,Turkey
+Terrance Ferguson,71,23,Oklahoma City Thunder,05/17/1998,198,184,2475840,USA
+Clint Capela,85,15,Atlanta Hawks,05/18/1994,208,211,16896552,Switzerland
+Raul Neto,72,19,Philadelphia 76ers,05/19/1992,185,170,1737145,Brazil
+Enes Kanter,80,11,Boston Celtics,05/20/1992,208,262,4767000,Turkey
+Lauri Markkanen,83,24,Chicago Bulls,05/22/1997,213,240,5300400,Finland
+Jaxson Hayes,74,10,New Orleans Pelicans,05/23/2000,211,220,4862040,USA
+Norman Powell,74,24,Toronto Raptors,05/25/1993,191,215,10116576,USA
+Willy Hernangomez,76,9,Charlotte Hornets,05/27/1994,211,255,1676735,Spain
+De'Anthony Melton,72,0,Memphis Grizzlies,05/28/1998,188,190,1416852,USA
+Stanley Johnson,73,5,Toronto Raptors,05/29/1996,198,242,3623000,USA
+Markelle Fultz,74,20,Orlando Magic,05/29/1998,191,195,9745200,USA
+Harrison Barnes,79,40,Sacramento Kings,05/30/1992,203,210,24147727,USA
+Jeremy Lamb,79,26,Indiana Pacers,05/30/1992,196,180,10500000,USA
+Hassan Whiteside,81,21,Portland Trail Blazers,06/13/1989,213,235,27093018,USA
+Jalen Lecque,68,0,Phoenix Suns,06/13/2000,191,190,898310,USA
+RJ Barrett,78,9,New York Knicks,06/14/2000,198,202,7839960,Canada
+Alex Len,77,0,Sacramento Kings,06/16/1993,213,225,4160000,Ukraine
+Georges Niang,72,31,Utah Jazz,06/17/1993,201,230,1645357,USA
+Jacob Evans,71,0,Minnesota Timberwolves,06/18/1997,193,210,1925880,USA
+Marvin Williams,76,2,Milwaukee Bucks,06/19/1986,203,240,14654179,USA
+Jordan Poole,70,3,Golden State Warriors,06/19/1999,193,194,1964760,USA
+Thaddeus Young,79,21,Chicago Bulls,06/21/1988,203,220,12900000,USA
+JaMychal Green,78,4,Los Angeles Clippers,06/21/1990,203,220,4767000,USA
+Danny Green,77,14,Los Angeles Lakers,06/22/1987,198,209,14634147,USA
+JJ Redick,80,4,New Orleans Pelicans,06/24/1984,191,190,13486300,USA
+Taj Gibson,77,67,New York Knicks,06/24/1985,206,225,9000000,USA
+Luke Kennard,75,5,Detroit Pistons,06/24/1996,196,196,3827160,USA
+Jose Juan Barea,76,5,Dallas Mavericks,06/26/1984,178,175,2564753,Puerto Rico
+Deonte Burton,70,30,Oklahoma City Thunder,06/26/1991,193,240,1416852,USA
+Rudy Gobert,88,27,Utah Jazz,06/26/1992,216,238,25258427,France
+Darius Garland,77,10,Cleveland Cavaliers,06/26/2000,185,175,6400920,USA
+Monte Morris,77,11,Denver Nuggets,06/27/1995,188,175,1588231,USA
+Furkan Korkmaz,73,30,Philadelphia 76ers,06/27/1997,201,185,1620564,Turkey
+Bradley Beal,87,3,Washington Wizards,06/28/1993,191,207,27093018,USA
+Kawhi Leonard,97,2,Los Angeles Clippers,06/29/1991,201,225,32742000,USA
+Michael Porter,76,1,Denver Nuggets,06/29/1998,208,215,3389400,USA
+Trevor Ariza,76,0,Portland Trail Blazers,06/30/1985,203,210,12200000,USA
+Shabazz Napier,75,0,Washington Wizards,07/14/1991,183,175,1845301,USA
+Damian Lillard,92,0,Portland Trail Blazers,07/15/1990,188,195,29802321,USA
+Derrick Favors,80,22,New Orleans Pelicans,07/15/1991,206,246,17650000,USA
+Troy Daniels,72,30,Denver Nuggets,07/15/1991,193,200,2487033,USA
+Tobias Harris,85,12,Philadelphia 76ers,07/15/1992,203,226,32742000,USA
+Luke Kornet,71,2,Chicago Bulls,07/15/1995,218,240,2250000,USA
+Mike Scott,75,1,Philadelphia 76ers,07/16/1988,201,237,4767000,USA
+OG Anunoby,73,3,Toronto Raptors,07/17/1997,201,232,2281800,United Kingdom
+Thanasis Antetokounmpo,70,43,Milwaukee Bucks,07/18/1992,198,215,1445697,Greece
+Bam Adebayo,79,13,Miami Heat,07/18/1997,206,243,3454080,USA
+LaMarcus Aldridge,87,12,San Antonio Spurs,07/19/1985,211,246,26000000,USA
+Dwight Powell,77,7,Dallas Mavericks,07/20/1991,208,234,10259375,Canada
+Alec Burks,73,0,Philadelphia 76ers,07/20/1991,198,195,2320044,USA
+Steven Adams,82,12,Oklahoma City Thunder,07/20/1993,211,255,25842697,New Zealand
+Ben Simmons,87,25,Philadelphia 76ers,07/20/1996,208,240,8113929,Australia
+Goga Bitadze,72,88,Indiana Pacers,07/20/1999,211,250,2816760,Georgia
+DeAndre Jordan,81,6,Brooklyn Nets,07/21/1988,211,265,9881598,USA
+Omari Spellman,73,0,Minnesota Timberwolves,07/21/1997,203,245,1897800,USA
+Bryn Forbes,75,11,San Antonio Spurs,07/23/1993,188,187,2875000,USA
+Deandre Ayton,82,22,Phoenix Suns,07/23/1998,211,250,9562920,The Bahamas
+Kyle Kuzma,84,0,Los Angeles Lakers,07/24/1995,203,221,1974600,USA
+Brad Wanamaker,73,9,Boston Celtics,07/25/1989,191,210,1445697,USA
+DeMarre Carroll,77,0,Houston Rockets,07/27/1986,198,212,7339258,USA
+Frank Ntilikina,73,11,New York Knicks,07/28/1998,193,190,4855800,France
+Troy Brown,73,6,Washington Wizards,07/28/1999,198,215,3219480,USA
+Rodney McGruder,72,19,Los Angeles Clippers,07/29/1991,193,205,4807693,USA
+Thomas Bryant,78,13,Washington Wizards,07/31/1997,208,241,8000000,USA
+Hamidou Diallo,70,6,Oklahoma City Thunder,07/31/1998,196,198,1416852,USA
+Boban Marjanovic,75,51,Dallas Mavericks,08/15/1988,224,290,3500000,Serbia
+Bruce Brown,73,6,Detroit Pistons,08/15/1996,193,190,1416852,USA
+Bruno Fernando,71,24,Atlanta Hawks,08/15/1998,206,245,1400000,Angola
+Rudy Gay,81,22,San Antonio Spurs,08/17/1986,203,230,14500000,USA
+Bogdan Bogdanovic,78,8,Sacramento Kings,08/18/1992,198,205,8529386,Serbia
+Willie Cauley-Stein,79,0,Dallas Mavericks,08/18/1993,213,242,2177483,USA
+Alen Smailagic,71,6,Golden State Warriors,08/18/2000,208,215,898310,Serbia
+Cory Joseph,74,9,Sacramento Kings,08/20/1991,191,185,12000000,Canada
+Seth Curry,74,30,Dallas Mavericks,08/23/1990,188,180,7461380,USA
+Ryan Broekhoff,72,0,Philadelphia 76ers,08/23/1990,198,215,2833704,Australia
+Jusuf Nurkic,83,27,Portland Trail Blazers,08/23/1994,213,290,12000000,Bosnia and Herzegovina
+PJ Washington,72,25,Charlotte Hornets,08/23/1998,201,225,3831840,USA
+Noah Vonleh,75,0,Denver Nuggets,08/24/1995,208,247,2000000,USA
+Caris LeVert,78,22,Brooklyn Nets,08/25/1994,198,191,2625717,USA
+James Harden,96,13,Houston Rockets,08/26/1989,196,220,38199000,USA
+Naz Reid,70,11,Minnesota Timberwolves,08/26/1999,206,249,898310,USA
+Kevin Huerter,76,3,Atlanta Hawks,08/27/1998,201,190,2636280,USA
+Jeff Green,76,34,Houston Rockets,08/28/1986,203,235,3405180,USA
+Bismack Biyombo,75,8,Charlotte Hornets,08/28/1992,203,229,17000000,Democratic Republic of the Congo
+Dwayne Bacon,73,7,Charlotte Hornets,08/30/1995,198,220,1618520,USA
+Mikal Bridges,75,25,Phoenix Suns,08/30/1996,198,209,4161000,USA
+Melvin Frazier,70,35,Orlando Magic,08/30/1996,196,201,1416852,USA
+Jalen Brunson,76,13,Dallas Mavericks,08/31/1996,185,190,1416852,USA
+Cheick Diallo,74,14,Phoenix Suns,09/13/1996,203,219,1678854,Mali
+Jimmy Butler,88,22,Miami Heat,09/14/1989,201,220,32742000,USA
+Gary Harris,79,14,Denver Nuggets,09/14/1994,193,205,17839286,USA
+Jevon Carter,71,4,Phoenix Suns,09/14/1995,185,200,1416852,USA
+Josh Richardson,80,0,Philadelphia 76ers,09/15/1993,196,200,10116576,USA
+Dennis Schroeder,78,17,Oklahoma City Thunder,09/15/1993,185,172,15500000,Germany
+Jaren Jackson,82,13,Memphis Grizzlies,09/15/1999,211,242,6699960,USA
+Aaron Gordon,81,0,Orlando Magic,09/16/1995,203,220,19863636,USA
+Alfonzo McKinnie,72,0,Cleveland Cavaliers,09/17/1992,203,215,2391985,USA
+Serge Ibaka,81,9,Toronto Raptors,09/18/1989,213,240,23271604,Spain
+CJ McCollum,87,3,Portland Trail Blazers,09/19/1991,191,197,27556959,USA
+Dejounte Murray,78,5,San Antonio Spurs,09/19/1996,193,170,2321735,USA
+Brandon Clarke,73,15,Memphis Grizzlies,09/19/1996,203,215,2478840,Canada
+Trae Young,85,11,Atlanta Hawks,09/19/1998,185,180,6273000,USA
+Kyle Anderson,74,1,Memphis Grizzlies,09/20/1993,206,230,9073050,USA
+Al-Farouq Aminu,77,2,Orlando Magic,09/21/1990,203,215,9258000,Nigeria
+John Collins,84,20,Atlanta Hawks,09/23/1997,206,225,2686560,USA
+Abdel Nader,70,11,Oklahoma City Thunder,09/25/1993,196,225,1618520,Egypt
+Michael Kidd-Gilchrist,76,0,Dallas Mavericks,09/26/1993,198,232,12784359,USA
+Shake Milton,71,18,Philadelphia 76ers,09/26/1996,196,205,1445697,USA
+Christian Wood,74,35,Detroit Pistons,09/27/1995,208,216,1645357,USA
+Khem Birch,74,24,Orlando Magic,09/28/1992,206,209,3000000,Canada
+Juan Hernangomez,74,41,Minnesota Timberwolves,09/28/1995,206,220,3321029,Spain
+Kevin Durant,96,7,Brooklyn Nets,09/29/1988,208,230,37199000,USA
+Aaron Holiday,73,3,Indiana Pacers,09/30/1996,183,185,2239200,USA
+Wesley Matthews,76,9,Milwaukee Bucks,10/14/1986,193,220,2564753,USA
+Richaun Holmes,75,22,Sacramento Kings,10/15/1993,208,243,4767000,USA
+Jakob Poeltl,77,25,San Antonio Spurs,10/15/1995,216,239,3754885,Austria
+Vincent Poirier,73,77,Boston Celtics,10/17/1993,213,235,2505793,France
+Robert Williams,74,44,Boston Celtics,10/17/1997,203,237,1937520,USA
+Terance Mann,69,14,Los Angeles Clippers,10/18/1996,196,215,1000000,USA
+Rodney Hood,76,5,Portland Trail Blazers,10/20/1992,203,208,5718000,USA
+Ricky Rubio,78,11,Phoenix Suns,10/21/1990,191,180,16200000,Spain
+Elie Okobo,71,2,Phoenix Suns,10/23/1997,191,190,1416852,France
+Nikola Vucevic,86,9,Orlando Magic,10/24/1990,211,240,28000000,Montenegro
+Jaylen Brown,79,7,Boston Celtics,10/24/1996,198,223,6534829,USA
+Patrick McCaw,72,22,Toronto Raptors,10/25/1995,201,181,4000000,USA
+Romeo Langford,72,45,Boston Celtics,10/25/1999,193,216,3458400,USA
+Louis Williams,84,23,Los Angeles Clippers,10/27/1986,185,175,8000000,USA
+Evan Turner,73,1,Minnesota Timberwolves,10/27/1988,198,205,18606556,USA
+Lonzo Ball,79,2,New Orleans Pelicans,10/27/1997,198,190,8719320,USA
+Treveon Graham,71,12,Atlanta Hawks,10/28/1993,196,219,1645357,USA
+Evan Fournier,78,10,Orlando Magic,10/29/1992,201,190,17150000,France
+Tomas Satoransky,75,31,Chicago Bulls,10/30/1991,201,198,10000000,Czech
+Devin Booker,86,1,Phoenix Suns,10/30/1996,196,206,27285000,USA
+Karl-Anthony Towns,89,32,Minnesota Timberwolves,11/15/1995,211,248,27285000,USA
+Denzel Valentine,74,45,Chicago Bulls,11/16/1993,193,210,3377568,USA
+Gary Clark,69,0,Orlando Magic,11/16/1994,198,225,1427191,USA
+Zach Collins,74,33,Portland Trail Blazers,11/17/1997,211,232,4240200,USA
+Kostas Antetokounmpo,68,37,Los Angeles Lakers,11/20/1997,208,200,79568,Greece
+Talen Horton-Tucker,70,5,Los Angeles Lakers,11/20/2000,193,234,898310,USA
+Dennis Smith,77,5,New York Knicks,11/25/1997,188,195,4463640,USA
+Avery Bradley,76,11,Los Angeles Lakers,11/26/1990,191,195,6767000,USA
+Malik Beasley,77,0,Minnesota Timberwolves,11/26/1996,193,198,2731713,USA
+Wayne Ellington,75,2,New York Knicks,11/29/1987,193,200,8000000,USA
+Julius Randle,83,30,New York Knicks,11/29/1994,203,250,18000000,USA
+Grant Williams,72,12,Boston Celtics,11/30/1998,198,236,2379840,USA
+Edmond Sumner,71,5,Indiana Pacers,12/13/1995,193,186,2000000,USA
+Nicolas Batum,77,5,Charlotte Hornets,12/14/1988,206,210,25565217,France
+Robert Covington,80,33,Houston Rockets,12/14/1990,201,209,11301219,USA
+Lonnie Walker,73,1,San Antonio Spurs,12/14/1998,196,204,2764200,USA
+Jahlil Okafor,76,8,New Orleans Pelicans,12/15/1995,208,270,1702486,USA
+Buddy Hield,84,24,Sacramento Kings,12/17/1993,193,212,4861207,The Bahamas
+Torrey Craig,74,3,Denver Nuggets,12/19/1990,201,215,2000000,USA
+Wesley Iwundu,72,25,Orlando Magic,12/20/1994,198,205,1618520,USA
+De'Aaron Fox,86,5,Sacramento Kings,12/20/1997,191,171,6392760,USA
+Sekou Doumbouya,73,45,Detroit Pistons,12/23/2000,203,209,3285120,France
+Eric Gordon,78,10,Houston Rockets,12/25/1988,191,215,14057730,USA
+John Henson,75,31,Detroit Pistons,12/28/1990,206,220,9732396,USA
+LeBron James,97,23,Los Angeles Lakers,12/30/1984,206,250,37436858,USA

@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module assignment_c</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>assignment_c</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:c%3A%5Cusers%5Cfflattery%5Conedrive%20-%20athlone%20institute%20of%20technology%5Capplied%20scripting%20languages%5Cassignment%5Cassignment_c.py">c:\users\fflattery\onedrive - athlone institute of technology\applied scripting languages\assignment\assignment_c.py</a></font></td></tr></table>
+    <p><tt>Student&nbsp;ID:&nbsp;A00291231<br>
+Purpose:&nbsp;Create&nbsp;dictionary&nbsp;of&nbsp;dates&nbsp;and&nbsp;values.&nbsp;Perform&nbsp;calcuations&nbsp;on&nbsp;these&nbsp;dates&nbsp;and&nbsp;values</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="datetime.html">datetime</a><br>
+</td><td width="25%" valign=top><a href="matplotlib.pyplot.html">matplotlib.pyplot</a><br>
+</td><td width="25%" valign=top><a href="re.html">re</a><br>
+</td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-average_value"><strong>average_value</strong></a>(dates_data)</dt><dd><tt>Get&nbsp;the&nbsp;average&nbsp;value&nbsp;per&nbsp;date<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+dates_data&nbsp;:&nbsp;dictionary{int}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;dictionary&nbsp;of&nbsp;dates&nbsp;along&nbsp;with&nbsp;their&nbsp;associated&nbsp;values.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+average&nbsp;:&nbsp;float<br>
+&nbsp;&nbsp;&nbsp;&nbsp;average&nbsp;value&nbsp;associated&nbsp;with&nbsp;each&nbsp;date.</tt></dd></dl>
+ <dl><dt><a name="-bar_chart"><strong>bar_chart</strong></a>(dates_data2)</dt><dd><tt>bar&nbsp;chart&nbsp;of&nbsp;all&nbsp;months&nbsp;and&nbsp;their&nbsp;cumulative&nbsp;height<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+dates_data2&nbsp;:&nbsp;dictionary{int}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;dictionary&nbsp;of&nbsp;months&nbsp;along&nbsp;with&nbsp;their&nbsp;cumulative&nbsp;heights.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+None.</tt></dd></dl>
+ <dl><dt><a name="-date_high_value"><strong>date_high_value</strong></a>(dates_data)</dt><dd><tt>Get&nbsp;the&nbsp;date&nbsp;with&nbsp;the&nbsp;highest&nbsp;value&nbsp;associated&nbsp;with&nbsp;it<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+dates_data&nbsp;:&nbsp;dictionary{int}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;dictionary&nbsp;of&nbsp;dates&nbsp;along&nbsp;with&nbsp;their&nbsp;associated&nbsp;values.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+high_value&nbsp;:&nbsp;datetime<br>
+&nbsp;&nbsp;&nbsp;&nbsp;date&nbsp;with&nbsp;the&nbsp;highest&nbsp;value&nbsp;associated&nbsp;with&nbsp;it</tt></dd></dl>
+ <dl><dt><a name="-date_low_value"><strong>date_low_value</strong></a>(dates_data)</dt><dd><tt>Get&nbsp;the&nbsp;date&nbsp;with&nbsp;the&nbsp;lowest&nbsp;value&nbsp;associated&nbsp;with&nbsp;it<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+dates_data&nbsp;:&nbsp;dictionary{int}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;dictionary&nbsp;of&nbsp;dates&nbsp;along&nbsp;with&nbsp;their&nbsp;associated&nbsp;values.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+low_value&nbsp;:&nbsp;datetime<br>
+&nbsp;&nbsp;&nbsp;&nbsp;date&nbsp;with&nbsp;the&nbsp;lowest&nbsp;value&nbsp;associated&nbsp;with&nbsp;it.</tt></dd></dl>
+ <dl><dt><a name="-date_plot"><strong>date_plot</strong></a>(dates_data)</dt><dd><tt>date&nbsp;plot&nbsp;of&nbsp;all&nbsp;heights&nbsp;in&nbsp;the&nbsp;dictionary<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+dates_data&nbsp;:&nbsp;dictionary{int}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;dictionary&nbsp;of&nbsp;dates&nbsp;along&nbsp;with&nbsp;their&nbsp;associated&nbsp;values.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+None.</tt></dd></dl>
+ <dl><dt><a name="-delta_fn"><strong>delta_fn</strong></a>(dates_data)</dt><dd><tt>Get&nbsp;the&nbsp;difference,&nbsp;in&nbsp;days,&nbsp;between&nbsp;the&nbsp;earliest&nbsp;and&nbsp;latest&nbsp;dates<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+dates_data&nbsp;:&nbsp;dictionary{int}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;dictionary&nbsp;of&nbsp;dates&nbsp;along&nbsp;with&nbsp;their&nbsp;associated&nbsp;values.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+delta.days:&nbsp;int<br>
+&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;difference&nbsp;in&nbsp;days&nbsp;between&nbsp;the&nbsp;earliest&nbsp;and&nbsp;latest&nbsp;days.</tt></dd></dl>
+ <dl><dt><a name="-earliest_date"><strong>earliest_date</strong></a>(dates_data)</dt><dd><tt>Get&nbsp;the&nbsp;earliest&nbsp;date&nbsp;in&nbsp;the&nbsp;dictionary<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+dates_data&nbsp;:&nbsp;dictionary{int}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;dictionary&nbsp;of&nbsp;dates&nbsp;along&nbsp;with&nbsp;their&nbsp;associated&nbsp;values.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+early_date&nbsp;:&nbsp;datetime<br>
+&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;earliest&nbsp;date&nbsp;in&nbsp;the&nbsp;dictionary.</tt></dd></dl>
+ <dl><dt><a name="-latest_date"><strong>latest_date</strong></a>(dates_data)</dt><dd><tt>Get&nbsp;the&nbsp;latest&nbsp;date&nbsp;in&nbsp;the&nbsp;dictionary<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+dates_data&nbsp;:&nbsp;dictionary{int}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;dictionary&nbsp;of&nbsp;dates&nbsp;along&nbsp;with&nbsp;their&nbsp;associated&nbsp;values.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+late_date&nbsp;:&nbsp;datetime<br>
+&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;latest&nbsp;date&nbsp;in&nbsp;the&nbsp;dictionary.</tt></dd></dl>
+</td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>contents</strong> = 'Tyson Chandler,73,19,Houston Rockets,10/02/1982,...s Angeles Lakers,12/30/1984,206,250,37436858,USA<font color="#c040c0">\n</font>'<br>
+<strong>data_file</strong> = &lt;_io.TextIOWrapper name='nba2k20_players.csv' mode='r' encoding='cp1252'&gt;<br>
+<strong>date_object</strong> = datetime.date(1984, 12, 30)<br>
+<strong>dates_data</strong> = {datetime.date(1981, 3, 17): 201, datetime.date(1982, 10, 2): 213, datetime.date(1984, 1, 28): 198, datetime.date(1984, 6, 24): 191, datetime.date(1984, 6, 26): 178, datetime.date(1984, 12, 30): 206, datetime.date(1985, 1, 29): 211, datetime.date(1985, 2, 10): 201, datetime.date(1985, 2, 25): 211, datetime.date(1985, 5, 5): 196, ...}<br>
+<strong>dates_data2</strong> = {'April': 5729, 'August': 7222, 'December': 4956, 'February': 6959, 'January': 5640, 'July': 8187, 'June': 7336, 'March': 9527, 'May': 7530, 'November': 4171, ...}<br>
+<strong>file_list</strong> = ['10/02/1982,213', '06/01/1985,203', '10/03/1985,196', '05/05/1985,196', '05/06/1985,185', '02/10/1985,201', '07/10/1985,198', '06/03/1986,206', '05/04/1986,191', '11/05/1986,211', '05/06/1986,191', '05/08/1986,196', '12/09/1986,208', '10/02/1987,201', '05/10/1987,203', '11/10/1987,180', '10/11/1987,185', '04/01/1988,213', '04/01/1988,213', '10/04/1988,188', ...]<br>
+<strong>height</strong> = '206'<br>
+<strong>line</strong> = '12/30/1984'<br>
+<strong>new_format</strong> = 'December'<br>
+<strong>time</strong> = datetime.datetime(1984, 12, 30, 0, 0)</td></tr></table>
+</body></html>

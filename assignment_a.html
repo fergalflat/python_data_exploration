@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module assignment_a</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>assignment_a</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:c%3A%5Cusers%5Cfflattery%5Conedrive%20-%20athlone%20institute%20of%20technology%5Capplied%20scripting%20languages%5Cassignment%5Cassignment_a.py">c:\users\fflattery\onedrive - athlone institute of technology\applied scripting languages\assignment\assignment_a.py</a></font></td></tr></table>
+    <p><tt>Student&nbsp;ID:&nbsp;A00291231<br>
+Purpose:&nbsp;Perform&nbsp;calcualations&nbsp;on&nbsp;single&nbsp;variable&nbsp;that&nbsp;has&nbsp;its&nbsp;values&nbsp;in&nbsp;a&nbsp;list</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="matplotlib.pyplot.html">matplotlib.pyplot</a><br>
+</td><td width="25%" valign=top></td><td width="25%" valign=top></td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-boxplot"><strong>boxplot</strong></a>(height_list)</dt><dd><tt>Generate&nbsp;a&nbsp;boxplot&nbsp;of&nbsp;the&nbsp;heights&nbsp;in&nbsp;the&nbsp;list<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;list&nbsp;of&nbsp;heights.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+None.</tt></dd></dl>
+ <dl><dt><a name="-calc_correlation"><strong>calc_correlation</strong></a>(height_list, weight_list)</dt><dd><tt>Calculate&nbsp;the&nbsp;correlation&nbsp;between&nbsp;the&nbsp;height&nbsp;and&nbsp;weight<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list&nbsp;[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;list&nbsp;of&nbsp;heights.<br>
+weight_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;list&nbsp;of&nbsp;weights.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+correlation&nbsp;:&nbsp;float<br>
+&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;correlation&nbsp;between&nbsp;height&nbsp;and&nbsp;weight.</tt></dd></dl>
+ <dl><dt><a name="-calc_iqr"><strong>calc_iqr</strong></a>(height_list)</dt><dd><tt>Get&nbsp;the&nbsp;interquartile&nbsp;range&nbsp;from&nbsp;the&nbsp;list&nbsp;of&nbsp;heights.&nbsp;<br>
+Get&nbsp;the&nbsp;25th&nbsp;percentile&nbsp;and&nbsp;the&nbsp;75th&nbsp;percentile&nbsp;and&nbsp;subtract&nbsp;them&nbsp;to&nbsp;get&nbsp;the&nbsp;interquartile<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;list&nbsp;of&nbsp;integers.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+IQR&nbsp;:&nbsp;int<br>
+&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;interquartile&nbsp;range&nbsp;from&nbsp;the&nbsp;list&nbsp;of&nbsp;heights.</tt></dd></dl>
+ <dl><dt><a name="-calc_max"><strong>calc_max</strong></a>(height_list)</dt><dd><tt>Get&nbsp;the&nbsp;maximum&nbsp;value&nbsp;from&nbsp;the&nbsp;list&nbsp;of&nbsp;heights<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;List&nbsp;of&nbsp;integers.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+maximum&nbsp;:&nbsp;int<br>
+&nbsp;&nbsp;&nbsp;&nbsp;maximum&nbsp;value&nbsp;from&nbsp;the&nbsp;list&nbsp;of&nbsp;heights.</tt></dd></dl>
+ <dl><dt><a name="-calc_mean"><strong>calc_mean</strong></a>(height_list)</dt><dd><tt>Get&nbsp;the&nbsp;mean&nbsp;of&nbsp;the&nbsp;values&nbsp;from&nbsp;the&nbsp;list&nbsp;of&nbsp;heights<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;List&nbsp;of&nbsp;heights.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+mean_height&nbsp;:&nbsp;float<br>
+&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;average/mean&nbsp;of&nbsp;the&nbsp;list&nbsp;of&nbsp;numbers.</tt></dd></dl>
+ <dl><dt><a name="-calc_median"><strong>calc_median</strong></a>(height_list)</dt><dd><tt>Get&nbsp;the&nbsp;median&nbsp;from&nbsp;the&nbsp;list&nbsp;of&nbsp;heights<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;list&nbsp;of&nbsp;heights.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+median&nbsp;:&nbsp;float<br>
+&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;median&nbsp;value&nbsp;from&nbsp;the&nbsp;list&nbsp;of&nbsp;numbers.</tt></dd></dl>
+ <dl><dt><a name="-calc_min"><strong>calc_min</strong></a>(height_list)</dt><dd><tt>Get&nbsp;the&nbsp;minimum&nbsp;value&nbsp;from&nbsp;the&nbsp;list&nbsp;of&nbsp;heights<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;list&nbsp;of&nbsp;integers.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+minimum&nbsp;:&nbsp;int<br>
+&nbsp;&nbsp;&nbsp;&nbsp;minimum&nbsp;value&nbsp;from&nbsp;the&nbsp;list&nbsp;of&nbsp;heights.</tt></dd></dl>
+ <dl><dt><a name="-calc_mode"><strong>calc_mode</strong></a>(height_list)</dt><dd><tt>Get&nbsp;the&nbsp;mode&nbsp;from&nbsp;the&nbsp;list&nbsp;of&nbsp;heights<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;list&nbsp;of&nbsp;heights.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+mode&nbsp;:&nbsp;int<br>
+&nbsp;&nbsp;&nbsp;&nbsp;The&nbsp;mode&nbsp;from&nbsp;the&nbsp;list&nbsp;of&nbsp;heights.</tt></dd></dl>
+ <dl><dt><a name="-calc_skewness"><strong>calc_skewness</strong></a>(height_list)</dt><dd><tt>Calcualte&nbsp;the&nbsp;skewness&nbsp;of&nbsp;the&nbsp;data.&nbsp;Get&nbsp;the&nbsp;mode&nbsp;and&nbsp;median&nbsp;skewness&nbsp;<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+mean_height&nbsp;:&nbsp;float<br>
+&nbsp;&nbsp;&nbsp;&nbsp;average&nbsp;height&nbsp;from&nbsp;the&nbsp;height_list<br>
+mode&nbsp;:&nbsp;int<br>
+&nbsp;&nbsp;&nbsp;&nbsp;mode&nbsp;from&nbsp;the&nbsp;heightlist.<br>
+std_dev&nbsp;:&nbsp;float<br>
+&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;standard&nbsp;deviation&nbsp;of&nbsp;the&nbsp;data&nbsp;calculated&nbsp;above.<br>
+median&nbsp;:&nbsp;float<br>
+&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;median&nbsp;of&nbsp;the&nbsp;height_list&nbsp;calcualted&nbsp;above.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+mode_skewness&nbsp;:&nbsp;float<br>
+&nbsp;&nbsp;&nbsp;&nbsp;mode&nbsp;skewness&nbsp;of&nbsp;the&nbsp;data.<br>
+median_skewness&nbsp;:&nbsp;float<br>
+&nbsp;&nbsp;&nbsp;&nbsp;median&nbsp;skewness&nbsp;of&nbsp;the&nbsp;data.</tt></dd></dl>
+ <dl><dt><a name="-calc_std_dev"><strong>calc_std_dev</strong></a>(height_list)</dt><dd><tt>Get&nbsp;the&nbsp;standard&nbsp;deviation&nbsp;from&nbsp;the&nbsp;list&nbsp;of&nbsp;heights<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;list&nbsp;of&nbsp;integers.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+std_dev&nbsp;:&nbsp;float<br>
+&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;standard&nbsp;deviation&nbsp;from&nbsp;the&nbsp;list&nbsp;of&nbsp;integers.</tt></dd></dl>
+ <dl><dt><a name="-histogram"><strong>histogram</strong></a>(height_list)</dt><dd><tt>Create&nbsp;a&nbsp;histogram&nbsp;of&nbsp;the&nbsp;heights<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;list&nbsp;of&nbsp;heights.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+None.</tt></dd></dl>
+ <dl><dt><a name="-number_of_values"><strong>number_of_values</strong></a>(height_list)</dt><dd><tt>Get&nbsp;the&nbsp;number&nbsp;of&nbsp;values&nbsp;from&nbsp;the&nbsp;height&nbsp;list&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;list&nbsp;of&nbsp;heights.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+int<br>
+&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;number&nbsp;of&nbsp;values&nbsp;in&nbsp;the&nbsp;list.</tt></dd></dl>
+ <dl><dt><a name="-scatterplot"><strong>scatterplot</strong></a>(height_list, weight_list)</dt><dd><tt>Generate&nbsp;a&nbsp;scatterplot&nbsp;of&nbsp;the&nbsp;heights&nbsp;in&nbsp;the&nbsp;list<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;list&nbsp;of&nbsp;heights.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+None.</tt></dd></dl>
+ <dl><dt><a name="-sqrt"><strong>sqrt</strong></a>(x, /)</dt><dd><tt>Return&nbsp;the&nbsp;square&nbsp;root&nbsp;of&nbsp;x.</tt></dd></dl>
+ <dl><dt><a name="-total_height"><strong>total_height</strong></a>(height_list)</dt><dd><tt>Get&nbsp;the&nbsp;total&nbsp;height&nbsp;of&nbsp;everyone&nbsp;in&nbsp;the&nbsp;list&nbsp;of&nbsp;heights<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;List&nbsp;of&nbsp;heights.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+int<br>
+&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;sum&nbsp;of&nbsp;all&nbsp;the&nbsp;heights&nbsp;in&nbsp;the&nbsp;list.</tt></dd></dl>
+ <dl><dt><a name="-violinplot"><strong>violinplot</strong></a>(height_list)</dt><dd><tt>Generate&nbsp;a&nbsp;violin&nbsp;plot&nbsp;of&nbsp;the&nbsp;ist&nbsp;of&nbsp;heights&nbsp;in&nbsp;the&nbsp;list<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+height_list&nbsp;:&nbsp;list[int]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;list&nbsp;of&nbsp;heights.<br>
+&nbsp;<br>
+Returns<br>
+-------<br>
+None.</tt></dd></dl>
+</td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>bDay</strong> = '12/30/1984'<br>
+<strong>country</strong> = 'USA<font color="#c040c0">\n</font>'<br>
+<strong>data_file</strong> = &lt;_io.TextIOWrapper name='nba2k20_players.csv' mode='r' encoding='cp1252'&gt;<br>
+<strong>fullName</strong> = 'LeBron James'<br>
+<strong>headers</strong> = 'fullName,rating,jersey,team,bDay,height,weight,salary,country<font color="#c040c0">\n</font>'<br>
+<strong>height</strong> = '206'<br>
+<strong>height_list</strong> = [213, 203, 196, 196, 185, 201, 198, 206, 191, 211, 191, 196, 208, 201, 203, 180, 185, 213, 213, 188, ...]<br>
+<strong>jersey</strong> = '23'<br>
+<strong>line</strong> = 'LeBron James,97,23,Los Angeles Lakers,12/30/1984,206,250,37436858,USA<font color="#c040c0">\n</font>'<br>
+<strong>rating</strong> = '97'<br>
+<strong>salary</strong> = '37436858'<br>
+<strong>team</strong> = 'Los Angeles Lakers'<br>
+<strong>weight</strong> = '250'<br>
+<strong>weight_list</strong> = [235, 240, 200, 225, 175, 250, 225, 246, 180, 230, 190, 195, 260, 209, 225, 180, 185, 265, 255, 190, ...]</td></tr></table>
+</body></html>
